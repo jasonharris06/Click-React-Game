@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Balrog",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/1/15/Sf-blankaold.gif/revision/latest?cb=20080209060758",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Cammy White",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/1/1b/Cammy-ssf2-stance1.gif/revision/latest?cb=20080209061313",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Chun-Li",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/9/93/ChunLi_breathe.gif/revision/latest?cb=20080212074238",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Dee Jay",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/8/88/DeeJay_breathe.gif/revision/latest?cb=20080212075848",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Dhalsim",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/c/c6/Classic-dhalsim.gif/revision/latest?cb=20080209063752",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Edmond Honda",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/f/f1/EHonda_breathe.gif/revision/latest?cb=20080212074417",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Fei Long",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/4/4f/FeiLong_breathe.gif/revision/latest?cb=20080212080117",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Guile",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/5/5c/Guile-oldstance.gif/revision/latest?cb=20080209192854",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "M. Bison",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/0/09/Bison-sf2-s1.gif/revision/latest?cb=20080210082209",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Ryu",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/7/72/Sf-ryuold.gif/revision/latest?cb=20080211020008",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Sagat",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/6/65/Sagat-sf2-stance1.gif/revision/latest?cb=20080212071029",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Thunder Hawk",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/b/bf/Sf-thawk.gif/revision/latest?cb=20080211040135",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Vega",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/e/e0/Vega-oldstance.gif/revision/latest?cb=20080506234320",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Zangief",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/0/07/Zangief-sf2-s1.gif/revision/latest?cb=20080211044340",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Akuma",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/d/d0/Akuma_breathe.gif/revision/latest?cb=20080324063325",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "Balrog",
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/a/ab/Sf2_balrog_anim.gif/revision/latest?cb=20141008132457",
+    "clicked": false
+  }
+]

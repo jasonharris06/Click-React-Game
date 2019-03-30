@@ -33,7 +33,7 @@ class App extends Component {
       this.setState({friends})
 
       //Run GameLogic
-      this.gameLogic(friends);
+      // this.gameLogic(friends);
 
       //  if(id === )
          console.log(friends);
